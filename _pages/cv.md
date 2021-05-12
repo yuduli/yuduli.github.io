@@ -46,7 +46,7 @@ Publications
 * **Y. Li**, Y. Zhao, R. Guo, T. Wang, Y. Zhang, M. Chrostek, W.C. Low, X.-H. Zhu, Z.-P. Liang, and W. Chen, “Machine learning-enabled high-resolution deuterium MR spectroscopic imaging for dynamic metabolic imaging of brain cancer”, (under review).
 * **Y. Li**, J. Xiong, R. Guo, Y. Zhao, Y. Li, and Z.-P. Liang, “Improved estimation of myelin water fractions with learned parameter distributions”, (under review).
 * **Y. Li**, F. Lam, B. Clifford, and Z.-P. Liang, “A subspace approach to spectral quantification for MR spectroscopic imaging,” IEEE Trans. Biomed. Eng., vol. 64, pp. 2486-2489, 2017. (Highlighted Article)
-* Y. Chen, __Y. Li__, and Z. Xu, “Improved low-rank filtering of MR spectroscopic imaging data with pre-learnt subspace and spatial constraints." IEEE Trans. Biomed. Eng. (In Press). (Corresponding Author) 
+* Y. Chen, **Y. Li**, and Z. Xu, “Improved low-rank filtering of MR spectroscopic imaging data with pre-learnt subspace and spatial constraints." IEEE Trans. Biomed. Eng. (In Press). (Corresponding Author) 
 * Z. Meng, R. Guo, **Y. Li**, Y. Guan, Y. Wang, Y. Zhao, B. Sutton, Y. Li, and Z.-P. Liang, “Accelerating T2 mapping of the brain by integrating deep learning priors with low‐rank and sparse modeling”, Magn. Reson. Med., 85.3 (2021): 1455-1467.
 * R. Guo, Y. Zhao, **Y. Li**, T. Wang, Y. Li, B. Sutton, and Z.-P. Liang, “Simultaneous QSM and metabolic imaging of the brain using SPICE: further improvements in data acquisition and processing”, Magn. Reson. Med., 85.2 (2021): 970-977.
 * L. Tang, Y. Zhao, **Y. Li**, R. Guo, B. Clifford, G. E. Fakhri, C. Ma, Z.-P. Liang, and J. Luo, “Accelerated J-resolved 1H-MRSI with limited and sparse sampling of (k,t_1)-space”, Magn. Reson. Med., vol. 85, pp. 30-41, 2021.
