@@ -9,13 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-* **University of Illinois at Urbana-Champaign**, Urbana, IL, USA         2017 - Present
+* **University of Illinois at Urbana-Champaign**, Urbana, IL, USA         2017 - Present\
   Ph.D. Candidate in Electrical and Computer Engineering, GPA: 4.0/4.0
 
-* **University of Illinois at Urbana-Champaign**, Urbana, IL, USA         2017
+* **University of Illinois at Urbana-Champaign**, Urbana, IL, USA         2017\
   M.S. in Electrical and Computer Engineering, GPA: 4.0/4.0
 
-* **Tsinghua University**, Beijing, China                                 2015
+* **Tsinghua University**, Beijing, China                                 2015\
   B.S. in Electronic Engineering, GPA: 91/100
 
 Awards
