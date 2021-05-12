@@ -17,5 +17,4 @@ My research focuses on developing computational methodologies for biomedical ima
 Education
 ======
 M.S., Electrical and Computer Engineering, University of Illinois at Urbana-Champaign, 2017
-
 B.S., Electronic Engineering, Tsinghua University, 2015
