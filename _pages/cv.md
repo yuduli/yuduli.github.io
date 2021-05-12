@@ -18,6 +18,7 @@ redirect_from:
 * **Tsinghua University**, Beijing, China                                 2015\
   B.S. in Electronic Engineering, GPA: 91/100
 
+
 Awards
 ======
 * Summa Cum Laude Paper Award, ISMRM,                                                    2021
@@ -39,6 +40,7 @@ Awards
 * Outstanding Graduate Award, Tsinghua University,                                       2015
 * Academic Excellence Scholarship, Tsinghua University,                                  2014
 * Academic Excellence Scholarship, Tsinghua University,                                  2012
+
  
 Publications
 ======
