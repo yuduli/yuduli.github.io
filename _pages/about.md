@@ -18,3 +18,8 @@ Education
 ======
 M.S., Electrical and Computer Engineering, University of Illinois at Urbana-Champaign, 2017\
 B.S., Electronic Engineering, Tsinghua University, 2015
+
+Contact
+======
+4259 Beckman Institute, University of Illinois at Urbana-Champaign\
+Email: yuduli2 at illinois dot edu
