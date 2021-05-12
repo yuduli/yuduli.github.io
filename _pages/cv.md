@@ -87,6 +87,7 @@ Proc. Intl. Soc. Magn. Reson. Med., pp. 5467, 2017.
 Teaching
 ======
 * Teaching Assistant - ECE 513: Vector Space Signal Processing (Spring 2021)
+
   
 Graduate Coursework
 ======
