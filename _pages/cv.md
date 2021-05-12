@@ -38,7 +38,7 @@ Awards
 * Travel Stipend Award, ISMRM,                                                           2017
 * Outstanding Graduate Award, Tsinghua University,                                       2015
 * Academic Excellence Scholarship, Tsinghua University,                                  2014
-* Academic Excellence Scholarship, Tsinghua University,                                  2012\
+* Academic Excellence Scholarship, Tsinghua University,                                  2012
  
 Publications
 ======
