@@ -12,7 +12,7 @@ This is Yudu Li. I am currently a Ph.D. candidate in Electrical and Computer Eng
 
 Research Interests
 ======
-My research is on computational imaging with a focus on Magnetic Resonance Imaging (MRI). I have been developing novel mathemtical models and computational methods for MR-based metabolic imaging, quantitative imaging, and multimodal neuroimaging methods. Specifically, I am building powerful computational frameworks that synergistically integrates spin physics, signal modelling, statistical inference, and advance machine learning to overcome the challenges in high-dimensional imaging problems and push the performance limits of modern MR systems. 
+My research focuses on developing computational methodologies for biomedical imaging, with the emphasis on Magnetic Resonance Imaging (MRI). I have been developing novel mathemtical models and computational methods for MR-based metabolic imaging, quantitative imaging, and multimodal neuroimaging methods. Specifically, I am building powerful computational frameworks that synergistically integrates spin physics, signal modelling, statistical inference, and advance machine learning to overcome the challenges in high-dimensional imaging problems and push the performance limits of modern MR systems. 
 
 Getting started
 ======
