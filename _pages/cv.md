@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Education"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
 * **University of Illinois at Urbana-Champaign**, Urbana, IL, USA         2017 - Present
   Ph.D. Candidate in Electrical and Computer Engineering, GPA: 4.0/4.0
 
