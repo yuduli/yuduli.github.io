@@ -5,8 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-Publications
-======
 ## Journal Publications
 * **Y. Li**, Y. Zhao, R. Guo, T. Wang, Y. Zhang, M. Chrostek, W.C. Low, X.-H. Zhu, Z.-P. Liang, and W. Chen, “Machine learning-enabled high-resolution deuterium MR spectroscopic imaging for dynamic metabolic imaging of brain cancer”, (under review).
 * **Y. Li**, J. Xiong, R. Guo, Y. Zhao, Y. Li, and Z.-P. Liang, “Improved estimation of myelin water fractions with learned parameter distributions”, (under review).
