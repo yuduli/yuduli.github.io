@@ -25,7 +25,7 @@ MR spectroscopic imaging (MRSI) is a unique tool for noninvasive metabolic imagi
 
 ## A Subspace Approach to Spectral Quantification for MR Spectroscopic Imaging
 
-MAGNETIC resonance spectroscopic imaging (MRSI) is a unique tool for non-invasive, label-free molecular
+Magnetic resonance spectroscopic imaging (MRSI) is a unique tool for non-invasive, label-free molecular
 imaging, and spectral quantification is a critical step in deriving quantitative molecular information from the measured MRSI data. However, obtaining accurate spectral estimates is rather challenging due to the low signal-to-noise ratio (SNR) of the measured data and nonlinearity of the underlying parameter estimation problem. In this work, we introduce a new subspace framework characterized by the
 use of a union-of-subspaces model to represent the spectral distributions of each molecule as a subspace and the entire spectrum as a union-of-subspaces. Based on this model, the spectral quantification can be solved in two steps: a) subspace estimation based on the empirical distributions of the spectral parameters estimated using spectral priors, and b) parameter estimation for the union-of-subspaces model incorporating spatial priors. The proposed method has been evaluated using both simulated and experimental data, producing impressive results.
 
