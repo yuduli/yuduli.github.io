@@ -24,6 +24,7 @@ author_profile: true
 * X. Peng, F. Lam, **Y. Li**, B. Clifford, and Z.-P. Liang, “Simultaneous QSM and metabolic imaging of the brain using SPICE,” Magn. Reson. Med., vol. 79, pp. 13-21, 2017. *[Link](https://onlinelibrary.wiley.com/doi/full/10.1002/mrm.26972?casa_token=HwgYe5tu1mgAAAAA%3AP_irJAqYbK5opGA7hyIh823ZprmCs5K3E6VvAbhDGWPEB5k19mv-ZXfNVScV5NczOX54n8S1Lm9YZGd-)*
 
 ## Conference Publications 
+* R. Guo, C. Ma, Y. Li, Y. Zhao, Y. Li, T. Wang, Y. Li, G.E. Fakhri, and Z.-P. Liang, “High-Resolution Label-Free Molecular Imaging of Brain Tumor,” in Conf. Proc. IEEE Eng. Med. Biol. Soc., 2021. (Best Student Paper Award)
 * Y. Li, Y. Zhao, R. Guo, T. Wang, Y. Zhang, M. Chrostek, W.C. Low, X.-H. Zhu, W. Chen, and Z.-P. Liang, “A marriage of subspace modeling with deep learning to enable high-resolution dynamic deuterium MR spectroscopic imaging,” Proc. Intl. Soc. Magn. Reson. Med., pp. 2524, 2021.
 * Y. Li, J. Xiong, R. Guo, Y. Zhao, Y. Li, and Z.-P. Liang, “Improved estimation of myelin water fractions with learned parameter distributions,” Proc. Intl. Soc. Magn. Reson. Med., pp. 2075, 2021.
 * Y. Li, Y. Zhao, R. Guo, F. Yu, X.-H. Zhu, W. Chen, and Z.-P. Liang, “Rapid dynamic deuterium MR spectroscopic imaging using deep-SPICE,” Proc. Intl. Soc. Magn. Reson. Med., 2020, p. 3739.
