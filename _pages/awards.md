@@ -4,7 +4,10 @@ title: "Awards"
 permalink: /awards/
 author_profile: true
 ---
-
+* Young Investigator Award (1st Place), OCSMRM,                                          2022
+* Thomas and Margaret Huang Award for Graduate Research, UIUC,                           2022
+* Magna Cum Laude Paper Award, ISMRM,                                                    2022
+* Best Student Paper Award (co-author), EMBC,                                            2021
 * Summa Cum Laude Paper Award, ISMRM,                                                    2021
 * Yunni & Maxine Pao Memorial Fellowship, UIUC,                                          2021
 * Summa Cum Laude Paper Award, ISMRM,                                                    2020

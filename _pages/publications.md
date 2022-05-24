@@ -6,8 +6,9 @@ author_profile: true
 ---
 
 ## Journal Publications
-* **Y. Li**, Y. Zhao, R. Guo, T. Wang, Y. Zhang, M. Chrostek, W.C. Low, X.-H. Zhu, Z.-P. Liang, and W. Chen, “Machine learning-enabled high-resolution deuterium MR spectroscopic imaging for dynamic metabolic imaging of brain cancer,” IEEE Trans. Med. Imaging, 2021. (In Press)
-* **Y. Li**, J. Xiong, R. Guo, Y. Zhao, Y. Li, and Z.-P. Liang, “Improved estimation of myelin water fractions with learned parameter distributions,” ,” Magn. Reson. Med., 2021. (In Press)
+* **Y. Li**, Y. Zhao, R. Guo, T. Wang, Y. Zhang, M. Chrostek, W.C. Low, X.-H. Zhu, Z.-P. Liang, and W. Chen, “Machine learning-enabled high-resolution deuterium MR spectroscopic imaging for dynamic metabolic imaging of brain cancer,” IEEE Trans. Med. Imaging, vol. 40, pp. 3879-3890, 2021.
+*[Link](https://ieeexplore.ieee.org/document/9500227)*
+* **Y. Li**, J. Xiong, R. Guo, Y. Zhao, Y. Li, and Z.-P. Liang, “Improved estimation of myelin water fractions with learned parameter distributions,” Magn. Reson. Med., vol. 86, pp. 2795-2809, 2021.
 *[Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/mrm.28889)*
 * **Y. Li**, F. Lam, B. Clifford, and Z.-P. Liang, “A subspace approach to spectral quantification for MR spectroscopic imaging,” IEEE Trans. Biomed. Eng., vol. 64, pp. 2486-2489, 2017. (Highlighted Article) *[Link](https://ieeexplore.ieee.org/abstract/document/8013142?casa_token=O_TSGGvPSEQAAAAA:OqqW2DGcYQYUaYavVFXQT4kE5J-88VlySwQITcl-5IkbYpNlzEEjOYhb19kH1dM_85UM47vveUI)*
 * Y. Chen, **Y. Li**, and Z. Xu, “Improved low-rank filtering of MR spectroscopic imaging data with pre-learnt subspace and spatial constraints." IEEE Trans. Biomed. Eng. , vol. 67, pp. 2381-2388, 2019. (Corresponding Author) *[Link](https://ieeexplore.ieee.org/abstract/document/8939434?casa_token=TQ0uLHk_PHQAAAAA:ViDicSrvaai_DU1N-n7IfIrae9tCgB_c6vKseJSnYs0fBFM_GLoZlqOE3mBa0T7FpG05IUG0xa4)*
