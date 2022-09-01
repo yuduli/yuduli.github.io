@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is Yudu Li. I am currently a Ph.D. candidate in Electrical and Computer Engineering at University of Illinois at Urbana-Champaign, advised by Prof. Zhi-Pei Liang. Prior to that, I received my bachelor degree in Electronic Engineering at Tsinghua University.
+This is Yudu Li. I am a Postdoctoral Fellow working with Prof. Zhi-Pei Liang at University of Illinois at Urbana-Champaign (UIUC). I received my Ph.D. in Electrical and Computer Engineering at University of Illinois at Urbana-Champaign, advised by Prof. Zhi-Pei Liang. Prior to that, I received my bachelor degree in Electronic Engineering at Tsinghua University.
 
 Research Interests
 ======
@@ -16,6 +16,7 @@ My research focuses on developing computational methodologies for biomedical ima
 
 Education
 ======
+Ph.D., Electrical and Computer Engineering, University of Illinois at Urbana-Champaign, 2022  
 M.S., Electrical and Computer Engineering, University of Illinois at Urbana-Champaign, 2017\
 B.S., Electronic Engineering, Tsinghua University, 2015
 

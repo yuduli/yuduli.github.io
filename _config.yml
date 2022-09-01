@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Yudu Li"
   avatar           : "profile.png"
-  bio              : "Ph.D. Candidate, ECE, UIUC"
+  bio              : "Postdoc, Beckman Institute, UIUC"
   location         : 
   employer         :
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=zCTkwAcAAAAJ&hl=en&oi=ao"
   email            : "yuduli2@illinois.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
