@@ -77,6 +77,14 @@ Publications
 * X. Peng, F. Lam, **Y. Li**, B. Clifford, and Z.-P. Liang, “Simultaneous QSM and metabolic imaging of the brain using SPICE,” Magn. Reson. Med., vol. 79, pp. 13-21, 2017.
 
 ## Conference Publications 
+* Y. Li, Y. Guan, Y. Zhao, R. Guo, Y. Li, and Z.-P. Liang, “Integrating subspace learning, manifold learning, and sparsity learning to reconstruct image sequences”, Proc. Intl. Soc. Magn. Reson. Med., 2022, p. 4591. (Magna Cum Laude Paper Award)
+* Y. Li, R. Guo, Y. Zhao, Y. Li, and Z.-P. Liang, “Improved myelin water fraction estimation integrating learned probabilistic subspaces and low-dimensional manifolds”, Proc. Intl. Soc. Magn. Reson. Med., 2022, p. 5348
+* R. Guo, Y. Li, Y. Zhao, T. Wang, Y. Li, B. Sutton, and Z.-P. Liang, “Simultaneous mapping of water diffusion coefficients and metabolite distributions of the brain using MRSI without water suppression”, Proc. Intl. Soc. Magn. Reson. Med., 2022, p. 2691. (Magna Cum Laude Paper Award)
+* R. Guo, Y. Li, Y. Zhao, S. Tafti, A. Anderson, B. Sutton, and Z.-P. Liang, “Rapid whole brain high-resolution MR spectroscopic imaging at 7T”, Proc. Intl. Soc. Magn. Reson. Med., 2022, p. 2697
+* Y. Zhao, Y. Li, R. Guo, K. R. Thulborn, and Z.-P. Liang, “Reconstructing high-quality sodium MR images from limited noisy k-space data with model-assisted deep learning”, Proc. Intl. Soc. Magn. Reson. Med., 2022, p. 1872
+* Y. Guan, Y. Li, R. Liu, Z. Meng,Y. Li, L. Ying, Y. P. Du, and Z.-P. Liang, “Image reconstruction with subspace-assisted deep learning,” Proc. Intl. Soc. Magn. Reson. Med., 2022, p. 2433.
+* R. Liu, Y. Li, Z. Meng, Y. Guan, T. Wang, T. Li, Y. P. Du, and Z.-P. Liang, “Reconstructing T2 maps of the brain from highly sparse k-space data with generalized series-assisted deep learning”, Proc. Intl. Soc. Magn. Reson. Med., 2022, p. 6187
+* Y. Zhang, J. Hu, M. Zhang, R. Guo, Y. Li, Y. Zhao, Z. Meng, D. Wang, W. Li, B. Li, J. Liu, B. Li, Z.-P. Liang, and Y. Li, “Study of neurometabolic signature in Alzheimer’s disease using high-resolution 3D 1H-MRSI”, Proc. Intl. Soc. Magn. Reson. Med., 2022, p. 6842
 * R. Guo, C. Ma, Y. Li, Y. Zhao, Y. Li, T. Wang, Y. Li, G.E. Fakhri, and Z.-P. Liang, “High-Resolution Label-Free Molecular Imaging of Brain Tumor,” in Conf. Proc. IEEE Eng. Med. Biol. Soc., 2021. (Best Student Paper Award)
 * Y. Li, Y. Zhao, R. Guo, T. Wang, Y. Zhang, M. Chrostek, W.C. Low, X.-H. Zhu, W. Chen, and Z.-P. Liang, “A marriage of subspace modeling with deep learning to enable high-resolution dynamic deuterium MR spectroscopic imaging,” Proc. Intl. Soc. Magn. Reson. Med., pp. 2524, 2021.
 * Y. Li, J. Xiong, R. Guo, Y. Zhao, Y. Li, and Z.-P. Liang, “Improved estimation of myelin water fractions with learned parameter distributions,” Proc. Intl. Soc. Magn. Reson. Med., pp. 2075, 2021.
