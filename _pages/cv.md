@@ -21,6 +21,10 @@ redirect_from:
 
 Awards
 ======
+* Distinguished Reviewer, IEEE Transactions on Medical Imaging                           2023
+* Summa Cum Laude Paper Award, ISMRM                                                     2023
+* Distinguished Reviewer, Magnetic Resonance in Medicine                                 2023
+* W.S. Moore Award (co-author), ISMRM                                                    2023
 * Young Investigator Award (1st Place), OCSMRM,                                          2022
 * Thomas and Margaret Huang Award for Graduate Research, UIUC,                           2022
 * Magna Cum Laude Paper Award, ISMRM,                                                    2022
@@ -49,11 +53,19 @@ Awards
 Publications
 ======
 ## Journal Publications
+* Y. Guan, **Y. Li**, R. Liu, Z. Meng, Y. Li, L. Ying, Y. Du, and Z.-P. Liang, “Subspace model-assisted deep learning for improved image reconstruction,” IEEE Trans. Med. Imaging, 2023, In Press. (co-first authors) 
 * **Y. Li**, Y. Zhao, R. Guo, T. Wang, Y. Zhang, M. Chrostek, W.C. Low, X.-H. Zhu, Z.-P. Liang, and W. Chen, “Machine learning-enabled high-resolution deuterium MR spectroscopic imaging for dynamic metabolic imaging of brain cancer,” IEEE Trans. Med. Imaging, vol. 40, pp. 3879-3890, 2021. (YIA Award of OCSMRM)
 * **Y. Li**, J. Xiong, R. Guo, Y. Zhao, Y. Li, and Z.-P. Liang, “Improved estimation of myelin water fractions with learned parameter distributions,” Magn. Reson. Med., vol. 86, pp. 2795-2809, 2021.
+* Y. Chen, **Y. Li**, and Z. Xu, “Improved low-rank filtering of MR spectroscopic imaging data with pre-learnt subspace and spatial constraints." IEEE Trans. Biomed. Eng. vol. 67, pp. 2381-2388, 2019. (Corresponding Author) 
 * **Y. Li**, F. Lam, B. Clifford, and Z.-P. Liang, “A subspace approach to spectral quantification for MR spectroscopic imaging,” IEEE Trans. Biomed. Eng., vol. 64, pp. 2486-2489, 2017. (Highlighted Article)
+* R. Jin, **Y. Li**, R. K. Shosted, F. Xing, I. Gilbert, J. Perry, J. Woo, Z.-P. Liang, B. P. Sutton, “Optimization of three-dimensional dynamic speech MRI: Poisson-disc under sampling and locally higher-rank reconstruction through partial separability model with regional optimized temporal basis”, Magn. Reson. Med., vol. 91, pp. 61-74, 2024.
+* T. Zhang, Y. Zhao, W. Jin, **Y. Li**, R. Guo, Z. Ke, J. Luo, Y. Li, Z.-P. Liang, “B1 mapping using pre-learned subspaces for quantitative brain imaging”, Magn. Reson. Med., vol. 90, pp. 2089-2101, 2023.
+* Z. Meng, R. Guo, T. Wang, B. Bo, Z. Lin, **Y. Li**, Y. Zhao, X. Yu, D. J. Lin, P. Nachev, Z.-P. Liang, and Y. Li, “Prediction of stroke onset time with joint fast high-resolution magnetic resonance spectroscopic and quantitative T2 mapping”, IEEE Trans. Biomed. Eng., vol. 70, pp. 3147-3155, 2023.
+* L. Tang, Y. Zhao, **Y. Li**, R. Guo, B. Cai, J. Wang, Y. Li, Z.-P. Liang, X. Peng, and J. Luo, “JSENSE-Pro: Joint sensitivity estimation and image reconstruction in parallel imaging using pre-learned subspaces of coil sensitivity functions”, Magn. Reson. Med., vol. 89, pp. 1531-1442, 2023.
+* Z. Lin, Z. Meng, T. Wang, R. Guo, Y. Zhao, **Y. Li**, B. Bo, Y. Guan, J. Liu, H. Zhou, X. Yu, D.J. Lin, Z.-P. Liang, P. Nachev, and Y. Li, “Predicting the onset of ischemic stroke with fast high-resolution 3D MR spectroscopic imaging,” J. Magn. Reson. Imaging, vol. 58, pp. 838-847, 2023. (W.S. Moore Award of ISMRM 2023)
+* R. Guo, Y. Li, Y. Zhao, T. Wang, **Y. Li**, B. Sutton, and Z.-P. Liang, and W. Chen, “Simultaneous mapping of water diffusion coefficients and metabolite distributions of the brain using MR spectroscopic imaging without water suppression,” IEEE Trans. Biomed. Eng., vol. 70, pp. 962-969, 2022.
+* T. Zhang, R. Guo, Y. Li, Y. Zhao, **Y. Li**, and Z.-P. Liang, “T_2^' mapping of the brain from water-unsuppressed 1H-MRSI and TSE data,” Magn. Reason. Med., vol. 88, pp. 2198-2207, 2022. 
 * Y. Zhao, R. Guo, **Y. Li**, K.R. Thulborn, and Z.-P. Liang, “High‐resolution sodium imaging using anatomical and sparsity constraints for denoising and recovery of novel features”, Magn. Reson. Med., vol. 86, pp. 625-636, 2021. (YIA Award of OCSMRM)
-* Y. Chen, **Y. Li**, and Z. Xu, “Improved low-rank filtering of MR spectroscopic imaging data with pre-learnt subspace and spatial constraints." IEEE Trans. Biomed. Eng. (In Press). (Corresponding Author) 
 * Z. Meng, R. Guo, **Y. Li**, Y. Guan, Y. Wang, Y. Zhao, B. Sutton, Y. Li, and Z.-P. Liang, “Accelerating T2 mapping of the brain by integrating deep learning priors with low‐rank and sparse modeling”, Magn. Reson. Med., 85.3 (2021): 1455-1467.
 * R. Guo, Y. Zhao, **Y. Li**, T. Wang, Y. Li, B. Sutton, and Z.-P. Liang, “Simultaneous QSM and metabolic imaging of the brain using SPICE: further improvements in data acquisition and processing”, Magn. Reson. Med., 85.2 (2021): 970-977.
 * L. Tang, Y. Zhao, **Y. Li**, R. Guo, B. Clifford, G. E. Fakhri, C. Ma, Z.-P. Liang, and J. Luo, “Accelerated J-resolved 1H-MRSI with limited and sparse sampling of (k,t_1)-space”, Magn. Reson. Med., vol. 85, pp. 30-41, 2021.
