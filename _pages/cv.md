@@ -107,6 +107,19 @@ Teaching
 * Teaching Assistant - ECE 513: Vector Space Signal Processing (Spring 2021)
 
   
+Professional Activities
+======
+## Journal Reviewers
+* Magnetic Resonance in Medicine (review more than 51 journal papers)
+* IEEE Transactions on Medical Imaging
+* IEEE Transactions on Biomedical Imaging
+* IEEE Transactions on Computational Imaging
+
+## Conference Reviewers
+* Annual Meeting of the International Society for Magnetic Resonance in Medicine
+* Annual International Conference of the IEEE Engineering in Medicine and Biology Society
+
+
 Graduate Coursework
 ======
 * Control System Theory & Design (A+)                                     
