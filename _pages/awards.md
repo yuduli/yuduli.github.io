@@ -4,6 +4,10 @@ title: "Awards"
 permalink: /awards/
 author_profile: true
 ---
+* Distinguished Reviewer, IEEE Transactions on Medical Imaging                           2023
+* Summa Cum Laude Paper Award, ISMRM                                                     2023
+* Distinguished Reviewer, Magnetic Resonance in Medicine                                 2023
+* W.S. Moore Award (co-author), ISMRM                                                    2023
 * Young Investigator Award (1st Place), OCSMRM,                                          2022
 * Thomas and Margaret Huang Award for Graduate Research, UIUC,                           2022
 * Magna Cum Laude Paper Award, ISMRM,                                                    2022
