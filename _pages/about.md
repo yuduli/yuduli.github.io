@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is Yudu Li. I am a Postdoctoral Fellow working with Prof. Zhi-Pei Liang at University of Illinois at Urbana-Champaign (UIUC). I received my Ph.D. in Electrical and Computer Engineering at University of Illinois at Urbana-Champaign, advised by Prof. Zhi-Pei Liang. Prior to that, I received my bachelor degree in Electronic Engineering at Tsinghua University.
+This is Yudu Li. I am a Research Assistant Professor of Bioengineering at University of Illinois at Urbana-Champaign (UIUC). Before joining the Bioengineering Department, I was a Postdoctoral Fellow at the Beckman Institute at UIUC. I received my Ph.D. in Electrical and Computer Engineering at UIUC, advised by Prof. Zhi-Pei Liang. Prior to that, I received my bachelor degree in Electronic Engineering at Tsinghua University.
 
 Research Interests
 ======
@@ -23,4 +23,5 @@ B.S., Electronic Engineering, Tsinghua University, 2015
 Contact
 ======
 4259 Beckman Institute, University of Illinois at Urbana-Champaign\
+3122 Everitt Laboratory, University of Illinois at Urbana-Champaign\
 Email: yuduli2 at illinois dot edu
