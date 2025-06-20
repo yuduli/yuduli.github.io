@@ -4,7 +4,8 @@ title: "Awards"
 permalink: /awards/
 author_profile: true
 ---
-* List of Teachers Ranked as Excellent by Their Students, UIUC                           2025
+* List of Teachers Ranked as Excellent by Their Students, UIUC (BIOE 484)                2025
+* List of Teachers Ranked as Excellent by Their Students, UIUC (BIOE 485)                2024
 * Distinguished Reviewer, IEEE Transactions on Medical Imaging                           2024
 * Distinguished Reviewer, IEEE Transactions on Medical Imaging                           2023
 * Summa Cum Laude Paper Award, ISMRM                                                     2023
