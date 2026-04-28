@@ -8,7 +8,7 @@ author_profile: true
 ## Multiplexed Magnetic Resonance Imaging (MRx)
 Magnetic resonance imaging (MRI) has revolutionized diagnostic radiology and medicine over the last five decades. However, the application of conventional MRI in clinical routine is still mainly limited to visual examination of macroscopic tissue pathology. Since diseases, such as tumors, multiple sclerosis and neurodegenerative disorders, are highly heterogeneous, there is a critical need for a noninvasive imaging technology that can provide quantitative biomarkers for tissue characterization for personalized and precision medicine. We introduce a new approach to MRI data acquisition and data processing, called “multiplexed MRI (MRx)”, to achieve high-resolution simultaneous multiparametric mapping of multiple molecules. We demonstrate that MRx can obtain a large set of quantitative structural, molecular and physiological biomarkers of the whole brain in regular clinical settings. We further demonstrate that these biomarkers could define an effective tissue state index that enables accurate disease subtyping and lesion characterization in tumors and multiple sclerosis. We anticipate that the new quantitative multiplexed imaging capabilities of MRx will significantly enhance the capability of MRI for diagnosis, monitoring, and assessment of therapeutic efficacy of many neurological diseases, and potentially transform brain imaging for both research and clinical applications.
 
-Selected publications:
+Selected publications: <br>
 [1] **Y. Li**, R. Guo, Y. Zhao, W. Jin, Z. Ke, L. Chen, X. Chen, W. Tang, Y. Li, Z.-P. Liang, “Multiplexed magnetic resonance imaging,” in press. <br>
 [2] R. Guo, **Y. Li**, Y. Zhao, T. Wang, Y. Li, B. Sutton, and Z.-P. Liang, and W. Chen, “Simultaneous mapping of water diffusion coefficients and metabolite distributions of the brain using MR spectroscopic imaging without water suppression,” IEEE Trans. Biomed. Eng., vol. 70, pp. 962-969, 2022. <br>
 [3] R. Guo, Y. Zhao, **Y. Li**, T. Wang, Y. Li, B. Sutton, and Z.-P. Liang, “Simultaneous QSM and metabolic imaging of the brain using SPICE: further improvements in data acquisition and processing”, Magn. Reson. Med., 85.2 (2021): 970-977. <br>
@@ -28,7 +28,7 @@ Selected publications:
 ## Ultrafast High-Resolution Magnetic Resonance Spectroscopic Imaging (MRSI)
 Ultrafast high-resolution MRSI: Over the past 10 years, I have been focused on developing advanced mathematical models, computational algorithms, and data acquisition schemes to improve resolution, signal-to-noise-ratio (SNR), and speed of MR spectroscopic imaging (MRSI). More specifically, in collaboration with Prof. Zhi-Pei Liang's group, we overcame several challenging technical problems in MRSI and developed a transformative ultrafast high-resolution MRSI technology. More recently, we have also successfully integrated physics-based signal modelling and data-driven deep learning to enable dynamic X-nuclei MRSI with unprecedented spatiotemporal resolution.
 
-Selected publications:
+Selected publications: <br>
 [1] Y Zhao, **Y Li**, W Jin, R Guo, C Ma, W Tang, Y Li, GE. Fakhri, Z-P Liang, “Ultrafast J-resolved magnetic resonance spectroscopic imaging for high-resolution metabolic brain imaging,” Nat. Biomed. Eng., vol. 9, pp. 1835–1847, 2025. <br>
 [2] R. Guo, **Y. Li**, Y. Zhao, W. Jin, Y. Chai, A. Anderson, W. Hassaneen, B. Damon, T. Wszalek, Y. Li, H.M. Wiesner, X. H. Zhu, W. Chen, B. P. Sutton, Z.-P. Liang, “High-resolution brain metabolic imaging at ultrahigh field using extended spatiospectral encoding and subspace modeling,” IEEE Trans Biomed Eng., vol. 72, pp. 3558-3566, 2025. (Cover article). <br>
 [3] X. Li, X.-H., Zhu, **Y. Li**, T. Wang, G. Zhang, H.-M. Wiesner, Z.-P. Liang, W. Chen, “Quantitative mapping of key glucose metabolic rates in the human brain using dynamic deuterium magnetic resonance spectroscopic imaging,” PNAS Nexus, vol. 4, pp. :pgaf072, 2025. <br>
@@ -57,7 +57,7 @@ use of a union-of-subspaces model to represent the spectral distributions of eac
 
 I have also developed advanced methods to enable ultrafast highresolution MRI. Our primary approach is synergistic integration of physics-based image modelling and data-driven machine learning to enable high-quality image reconstruction from highly sparse imaging data. These methods have enabled several important applications, including highly accelerated structural MRI, ultrafast and robust quantitative imaging, and high-speed speech imaging.
 
-Selected publications:
+Selected publications: <br>
 [1] Y. Guan\*, **Y. Li\***, R. Liu, Z. Meng, Y. Li, L. Ying, Y. Du, and Z.-P. Liang, “Subspace model-assisted deep learning for improved image reconstruction,” IEEE Trans. Med. Imaging, vol. 42, pp. 3833-3846, 2023. (\*co-first authors) <br>
 [2] **Y. Li**, J. Xiong, R. Guo, Y. Zhao, Y. Li, and Z.-P. Liang, “Improved estimation of myelin water fractions with learned parameter distributions,” Magn. Reson. Med., vol. 86, pp. 2795-2809, 2021. <br>
 [3] R. Liu, **Y. Li**, Y. Li, YP Du, Z.-P Liang, “Information-theoretic analysis of multimodal image translation,” IEEE Trans Med Imaging, vol. 44, pp. 3210-3221, 2025. <br>
@@ -71,7 +71,7 @@ Selected publications:
 ## Clinical Applications of Ultrafast High-Resolution MRSI
 I have been closely working with the clinical collaborators round the world to demonstrate the clinical feasibility of our ultrafast high-resolution MRSI technology in a range of real-world clinical applications. The preliminary clinical results have demonstrated our technology’s potential to: a) capture metabolic alterations associated with epilepsy, b) detect altered metabolic changes due to acute mild traumatic brain injury, Alzheimer’s disease, and brain tumor, and c) detect molecular fingerprints useful for assessment of brain tissue viability after stroke.
 
-Selected publications:
+Selected publications: <br>
 [1] Yao Li, *Y. Li*, Z.-P. Liang, "Magnetic Resonance Spectroscopic Imaging of Brain Plasticity," in Handbook of Cognitive Enhancement and Brain Plasticity, edited by Aron Barbey. <br>
 [2] Y. Guo, Y. Wang, Y. Ni, B. Bo, J. He, Y. Zhu, A. Qin, X. Zhou, H. Du, Y. Liu, T. Wang, *Y. Li*, Y. Zhao, Z. Chen, Z. Liang, Y. Li, Y. Xu, and H. Zhang, “Iron overload mediates the differential cell fate of astrocytes from neurons and its regulatory mechanisms in ischemic stroke,” Adv. Sci. (Weinh)., vol. 13, no. 4, e07384, 2026. <br>
 [3] Y. Zhang, X. H. Qian, H. Zhuang, W. Zhang, J. Hu, Y. Zhao, *Y. Li*, W. Jin, C. Xu, Z. Meng, W. Li, S. Chen, X. F. Jiang, T. Guo, Y. D. Li, J. Ye, Z.-P. Liang, B. Li, M. Zhang, H. Tang, and Y. Li, “Dual association patterns between microglial activation and neuronal health in Alzheimer's disease: a whole-brain MRSI/PET study,” Alzheimers Dement., vol. 22, no. 3, e71229, 2026. <br>
