@@ -49,6 +49,7 @@ water and lipid signals and reconstruction of the desired spatiospectral functio
 ***High-resolution dynamic DMRSI results of rat brain with a small tumor**, including time-dependent concentrationmaps (left panel),metabolic time courses (middle panel), and the time evolution of 2H-spectra (right panel); here, the metabolic time courses and spectra are from voxels at the center of the red and yellow circles within tumor and normal-appearing tissues, respectively.*
 
 ![](Spectral_quantification.gif)
+
 ***A subspace framework for spectral quantification in MRSI.** The framework is characterized by the
 use of a union-of-subspaces model to represent the spectral distributions of each molecule as a subspace and the entire spectrum as a union-of-subspaces. Based on this model, the spectral quantification can be solved in two steps: a) subspace estimation based on the empirical distributions of the spectral parameters estimated using spectral priors, and b) parameter estimation for the union-of-subspaces model incorporating spatial priors.*
 
