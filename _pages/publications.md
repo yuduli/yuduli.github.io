@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 ## Journal Publications
+* **Y. Li**, R. Guo, Y. Zhao, W. Jin, Z. Ke, L. Chen, X. Chen, W. Tang, Y. Li, Z.-P. Liang, “Multiplexed magnetic resonance imaging,” Nature 2025; published online. *[Link](https://www.nature.com/articles/s41586-026-10475-x)*
 * Y. Zhao, **Y. Li**, W. Jin, R. Guo, C. Ma, W. Tang, Y. Li, G. E. Fakhri, and Z.-P. Liang, “Ultrafast J-resolved magnetic resonance spectroscopic imaging for high-resolution metabolic imaging of the brain," Nat Biomed Eng. 2025;Published online. *[Link](https://www.nature.com/articles/s41551-025-01418-4)*
 * Y. Guan, **Y. Li**, R. Liu, Z. Meng, Y. Li, L. Ying, Y. Du, and Z.-P. Liang, “Subspace model-assisted deep learning for improved image reconstruction,” IEEE Trans. Med. Imaging, 2023, In Press. (co-first authors) *[Link](https://ieeexplore.ieee.org/document/10244070)*
 * **Y. Li**, Y. Zhao, R. Guo, T. Wang, Y. Zhang, M. Chrostek, W.C. Low, X.-H. Zhu, Z.-P. Liang, and W. Chen, “Machine learning-enabled high-resolution deuterium MR spectroscopic imaging for dynamic metabolic imaging of brain cancer,” IEEE Trans. Med. Imaging, vol. 40, pp. 3879-3890, 2021. (YIA Award of OCSMRM) *[Link](https://ieeexplore.ieee.org/document/9500227)*
